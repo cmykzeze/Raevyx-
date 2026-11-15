@@ -1,0 +1,12 @@
+{
+  "entity.dragonriding.rideable_dragon": "Rideable Dragon",
+  "key.category.dragonriding.main": "Dragon Riding",
+  "key.dragonriding.ascend": "Ascend",
+  "key.dragonriding.descend": "Descend",
+  "key.dragonriding.accelerate": "Accelerate",
+  "key.dragonriding.ability_primary": "Primary Ability (Roar)",
+  "key.dragonriding.ability_secondary": "Secondary Ability (Summon Storm)",
+  "key.dragonriding.ability_tertiary": "Channel Ability (Beam)",
+  "key.dragonriding.toggle_melee": "Toggle Melee Mode",
+  "key.dragonriding.flex": "Flex (hold Ctrl)"
+}
